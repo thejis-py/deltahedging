@@ -1,0 +1,8 @@
+numpy
+pandas
+scipy
+matplotlib
+openpyxl
+pytest
+jupyter
+settrade-v2
